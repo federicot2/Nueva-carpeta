@@ -1,0 +1,83 @@
+* {
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*ESTILO ARTICULOOOSOSS*/
+#contenido{
+    margin-top:25px ;
+}
+.articulo{
+    margin:20px;
+    border: solid 1px black;
+    padding: 10px;
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+.articulo img {
+    width: 150px;
+    height: 150px;
+}
+
+.articulo {
+    overflow: hidden;
+}
+
+/*------------------------*/
+/*DISEÑO MENUUUUUUUU*/
+#menu {
+    margin-top: 40px;
+    padding: 20px;
+}
+
+#menu ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+#menu li {
+    display: inline;
+    text-align: center;
+    margin: 10px;
+}
+
+#menu li a {
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    border-radius: 25px;
+    color: rgb(82, 80, 80);
+}
+
+.item1 {
+    background-color: rgb(250, 192, 192);
+}
+
+.item2 {
+    background-color: rgb(174, 196, 245);
+}
+
+.item3 {
+    background-color: rgb(182, 230, 204);
+}
+
+/*----------------------------*/
+/*ENCABEZADO*/
+#encabezado{
+    margin-top: 20px;
+    padding: 50px;
+    background-color: aliceblue;
+}
+#encabezado h1 {
+    margin: 25px;
+    text-align: center;
+}
+#encabezado p {
+    margin: 25px;
+    text-align: justify;
+}
+
+
+/*-----------------------------*/
